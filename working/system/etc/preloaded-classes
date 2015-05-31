@@ -402,6 +402,7 @@ android.app.SharedPreferencesImpl$EditorImpl
 android.app.SharedPreferencesImpl$EditorImpl$1
 android.app.SharedPreferencesImpl$EditorImpl$2
 android.app.SharedPreferencesImpl$MemoryCommitResult
+android.app.SystemServiceRegistry
 android.app.admin.DevicePolicyManager
 android.app.admin.IDevicePolicyManager$Stub
 android.app.admin.IDevicePolicyManager$Stub$Proxy
@@ -1151,6 +1152,7 @@ android.provider.Settings$SettingNotFoundException
 android.provider.Settings$System
 android.provider.Telephony$Mms
 android.renderscript.RenderScript
+android.security.AndroidKeyStoreBCWorkaroundProvider
 android.security.AndroidKeyStoreProvider
 android.speech.tts.TextToSpeechService
 android.speech.tts.TextToSpeechService$SpeechItemV1
@@ -1796,7 +1798,6 @@ com.android.internal.telephony.ITelephonyRegistry
 com.android.internal.telephony.ITelephonyRegistry$Stub
 com.android.internal.telephony.ITelephonyRegistry$Stub$Proxy
 com.android.internal.telephony.PhoneConstants$State
-com.android.internal.transition.ActionBarTransition
 com.android.internal.util.ArrayUtils
 com.android.internal.util.FastPrintWriter
 com.android.internal.util.FastPrintWriter$1
